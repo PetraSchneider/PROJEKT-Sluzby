@@ -2,14 +2,9 @@ body{
     background-color: #FAFAFA;
 }
 
-.t1{
+.t{
+    display: inline-block;
     background-color: #407BFF;
     border: #407BFF;
     border-radius: 20px;
-}
-
-
-
-.okno{
-    border: solid;
 }
